@@ -24,4 +24,4 @@ Ingeniería de Software - UTEQ
 
 ---
 
-*Última actualización: Febrero 2026*
+*Última actualización: marzo 2026*
